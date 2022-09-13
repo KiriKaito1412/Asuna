@@ -1,0 +1,10 @@
+{
+	"name": "Asuna",
+	"version": "0.0.1",
+	"main": "src/index.js",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"discord.js": "^13.0.1"
+	}
+}
